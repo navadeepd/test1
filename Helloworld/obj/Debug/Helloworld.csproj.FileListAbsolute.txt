@@ -1,0 +1,6 @@
+C:\Users\VERITRADEV-2\Desktop\TestFolder\Helloworld\Helloworld\bin\Debug\Helloworld.exe.config
+C:\Users\VERITRADEV-2\Desktop\TestFolder\Helloworld\Helloworld\bin\Debug\Helloworld.exe
+C:\Users\VERITRADEV-2\Desktop\TestFolder\Helloworld\Helloworld\bin\Debug\Helloworld.pdb
+C:\Users\VERITRADEV-2\Desktop\TestFolder\Helloworld\Helloworld\obj\Debug\Helloworld.csprojResolveAssemblyReference.cache
+C:\Users\VERITRADEV-2\Desktop\TestFolder\Helloworld\Helloworld\obj\Debug\Helloworld.exe
+C:\Users\VERITRADEV-2\Desktop\TestFolder\Helloworld\Helloworld\obj\Debug\Helloworld.pdb
